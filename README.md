@@ -1,1 +1,2 @@
-###Hi, I'm Rasulov Jahongir <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNwdG9veTd0cWFlcWpnOXdhYTViY2k5MTdsbGx3b2g3OXRndjh0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZy2SbQTJEm7q4KeEm/giphy.gif"width="100px">
+### Hi, I'm Rasulov Jahongir 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNwdG9veTd0cWFlcWpnOXdhYTViY2k5MTdsbGx3b2g3OXRndjh0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XZy2SbQTJEm7q4KeEm/giphy.gif" width="100px">
